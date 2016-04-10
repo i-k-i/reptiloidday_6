@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CitySearch.qml</file>
+        <file>Weather.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="loader">img/gnu-loader.gif</file>
+    </qresource>
+</RCC>
